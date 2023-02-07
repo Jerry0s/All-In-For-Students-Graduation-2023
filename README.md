@@ -66,3 +66,8 @@ Contact - students@allinopensource.org
 - Name: Humaira Tasnim
 - School: Wayne State University
 - Favorite Quote: "Be the change that you wish to see in the world", Mahatma Gandhi
+
+---
+- Name: Jeremiah (Jerry) Ortega
+- School: University of California, Los Angeles (UCLA)
+- Favorite Quote: "No matter how difficult the challenge is, always stay positive and believe in yourself." - Kobe Bryant
